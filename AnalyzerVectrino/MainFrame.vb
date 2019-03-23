@@ -111,8 +111,9 @@
         frame.initializeGraphics()
         frame.loadProbes(probe1, probe2, probe3)
         frame.putOnGraphics(80)  '80 is the default to Correlation filter.
+        Me.Visible = False
         frame.ShowDialog()
-
+        Me.Visible = True
     End Sub
 
     Private Function convert(Number As String) As Double

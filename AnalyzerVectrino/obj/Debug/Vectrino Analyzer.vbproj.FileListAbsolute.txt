@@ -1,0 +1,11 @@
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\AnalyzerVectrino.GraphicFrame.resources
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\AnalyzerVectrino.MainFrame.resources
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\AnalyzerVectrino.Resources.resources
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\Vectrino Analyzer.vbproj.GenerateResource.Cache
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\bin\Debug\Vectrino Analyzer.exe.config
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\bin\Debug\Vectrino Analyzer.exe
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\bin\Debug\Vectrino Analyzer.pdb
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\bin\Debug\Vectrino Analyzer.xml
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\Vectrino Analyzer.exe
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\Vectrino Analyzer.xml
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\Vectrino Analyzer.pdb
