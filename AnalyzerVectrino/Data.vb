@@ -1,4 +1,5 @@
 ﻿Public Class Data
+
     Private sample As Integer
     Private time As Double
     Private YVel As Double
@@ -9,6 +10,7 @@
         Me.time = time
         Me.YVel = yVel
     End Sub
+
 
     Public Sub setYCor(value As Integer)
         YCor = value

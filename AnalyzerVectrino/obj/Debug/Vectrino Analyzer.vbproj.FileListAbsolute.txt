@@ -9,3 +9,4 @@ C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\bin\De
 C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\Vectrino Analyzer.exe
 C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\Vectrino Analyzer.xml
 C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\Vectrino Analyzer.pdb
+C:\Users\Henrique Goetz\Documents\Bolsa\VectrinoAnalyzer\AnalyzerVectrino\obj\Debug\Vectrino Analyzer.vbprojResolveAssemblyReference.cache

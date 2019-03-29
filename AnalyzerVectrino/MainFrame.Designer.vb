@@ -27,6 +27,8 @@ Partial Class MainFrame
         Me.lblVel = New System.Windows.Forms.Label()
         Me.lblCor = New System.Windows.Forms.Label()
         Me.btnShowGraphic = New System.Windows.Forms.Button()
+        Me.btnLoadCtl = New System.Windows.Forms.Button()
+        Me.lblCtl = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'btnLoadVel
@@ -54,7 +56,7 @@ Partial Class MainFrame
         Me.lblVel.Location = New System.Drawing.Point(180, 54)
         Me.lblVel.Name = "lblVel"
         Me.lblVel.Size = New System.Drawing.Size(93, 17)
-        Me.lblVel.TabIndex = 3
+        Me.lblVel.TabIndex = 0
         Me.lblVel.Text = "Need to load."
         '
         'lblCor
@@ -63,7 +65,7 @@ Partial Class MainFrame
         Me.lblCor.Location = New System.Drawing.Point(180, 118)
         Me.lblCor.Name = "lblCor"
         Me.lblCor.Size = New System.Drawing.Size(93, 17)
-        Me.lblCor.TabIndex = 4
+        Me.lblCor.TabIndex = 1
         Me.lblCor.Text = "Need to load."
         '
         'btnShowGraphic
@@ -72,15 +74,36 @@ Partial Class MainFrame
         Me.btnShowGraphic.Location = New System.Drawing.Point(331, 55)
         Me.btnShowGraphic.Name = "btnShowGraphic"
         Me.btnShowGraphic.Size = New System.Drawing.Size(200, 80)
-        Me.btnShowGraphic.TabIndex = 2
+        Me.btnShowGraphic.TabIndex = 3
         Me.btnShowGraphic.Text = "Show Graphic"
         Me.btnShowGraphic.UseVisualStyleBackColor = True
+        '
+        'btnLoadCtl
+        '
+        Me.btnLoadCtl.Enabled = False
+        Me.btnLoadCtl.Location = New System.Drawing.Point(39, 169)
+        Me.btnLoadCtl.Name = "btnLoadCtl"
+        Me.btnLoadCtl.Size = New System.Drawing.Size(123, 42)
+        Me.btnLoadCtl.TabIndex = 2
+        Me.btnLoadCtl.Text = "Load .ctl"
+        Me.btnLoadCtl.UseVisualStyleBackColor = True
+        '
+        'lblCtl
+        '
+        Me.lblCtl.AutoSize = True
+        Me.lblCtl.Location = New System.Drawing.Point(180, 182)
+        Me.lblCtl.Name = "lblCtl"
+        Me.lblCtl.Size = New System.Drawing.Size(93, 17)
+        Me.lblCtl.TabIndex = 2
+        Me.lblCtl.Text = "Need to load."
         '
         'MainFrame
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(566, 193)
+        Me.ClientSize = New System.Drawing.Size(566, 247)
+        Me.Controls.Add(Me.lblCtl)
+        Me.Controls.Add(Me.btnLoadCtl)
         Me.Controls.Add(Me.btnShowGraphic)
         Me.Controls.Add(Me.lblCor)
         Me.Controls.Add(Me.lblVel)
@@ -98,4 +121,6 @@ Partial Class MainFrame
     Friend WithEvents lblVel As Label
     Friend WithEvents lblCor As Label
     Friend WithEvents btnShowGraphic As Button
+    Friend WithEvents btnLoadCtl As Button
+    Friend WithEvents lblCtl As Label
 End Class
